@@ -1,5 +1,5 @@
 ﻿namespace phoneAFriend.Models
-{
+{   // Base model.
     public class Item : BaseDataObject
 	{
 		string text = string.Empty;
