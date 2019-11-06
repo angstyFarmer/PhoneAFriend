@@ -31,3 +31,4 @@ namespace phoneAFriend.Models
         public string AzureVersion { get; set; }
     }
 }
+
